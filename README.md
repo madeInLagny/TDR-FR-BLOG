@@ -19,9 +19,14 @@ bundle exec jekyll serve --watch
 - Fill the post details accordingly
 - Use Chat GPT to create an HTML description metatag of 50 to 160 characters
  "Write a SEO friendly description tag in French and in 160 characters max for this blog post:"..."
+ "Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list" 
 - Check the post locally
 - Save changes and commit to upload changes to github
 - Add the URL to Google Search Console
+
+## Snippets
+[**Trade Duty Refund**] (https://fr.tradedutyrefund.com)
+[Jocelyn Montpert](https://fr.tradedutyrefund.com/jocelyn-montpert.html)
 
 ## Tools
 Slugify title: https://slugify.online/
