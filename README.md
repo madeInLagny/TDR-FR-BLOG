@@ -18,6 +18,7 @@ bundle exec jekyll serve --watch
 - Update the file name, including date
 - Fill the post details accordingly
 - Use Chat GPT to create an HTML description metatag of 50 to 160 characters
+ "Write a SEO friendly description tag in French and in 160 characters max for this blog post:"..."
 - Check the post locally
 - Save changes and commit to upload changes to github
 - Add the URL to Google Search Console

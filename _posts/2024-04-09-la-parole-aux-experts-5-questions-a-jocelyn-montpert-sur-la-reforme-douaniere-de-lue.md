@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "La parole aux experts : 5 questions à Jocelyn Montpert sur la réforme douanière de l'UE"
+description: Découvrez les réformes douanières de l'UE et leurs impacts pour les commerçants internationaux. Préparez-vous dès maintenant avec nos conseils!
+categories: [ Réformes douanières de l'UE, Commerce international, Commerce électronique,Logistique des retours, La parole aux experts]
+image: assets/images/20240412-1.webp
+comments: false
+---
+>Dans cette nouvelle série de blogs, [**Trade Duty Refund**](https://fr.tradedutyrefund.com) cherche à poser des questions de fond sur l'état du commerce international, du développement et du commerce électronique aux experts du secteur afin d'obtenir des éclaircissements et des conseils d'experts sur les meilleures pratiques.
+
+Dans ce premier article, nous commençons par un sujet d’actualité et qui concerne de nombreux commerçants mondiaux qui exportent vers l’Union européenne. En 2023, l’UE a annoncé d’importantes réformes de ses réglementations et procédures douanières. L'une des propositions les plus remarquables est la suppression du seuil de faible valeur de 150 euros, ce qui signifie qu'il n'y aura plus d'exemption des droits de douane pour ces articles de faible valeur pour des produits aussi populaires que les vêtements, les accessoires, les jouets et bien plus encore.
+
+L'une des grandes préoccupations de l'UE est d'éliminer la fraude dans les déclarations en douane.
+
+A l’autre bout de la chaîne d’approvisionnement se trouve le processus de logistique des retours dans lequel les commerçants luttent également contre les réclamations frauduleuses. Selon Forbes, les retours augmentent désormais plus rapidement que le commerce électronique lui-même. La conséquence principale est le coût exorbitant payé par les commerçants pour satisfaire leurs clients avec des politiques de retour attractives tout en essayant de contenir les coûts.
+
+Nous allons mettre notre propre fondateur et PDG, Jocelyn Montpert, sur la sellette pour répondre aux questions sur les implications des réformes douanières de l'UE et sur la manière dont les commerçants internationaux peuvent trouver un certain soulagement. Jocelyn possède plus de 30 ans d'expérience dans le domaine du commerce international et du développement, en particulier dans le domaine de la conformité douanière et des remboursements de droits au Royaume-Uni et dans l'UE.
+
+![L'image montre une barrière douanière en illustration de l'Union Européenne Douanière](/assets/images/20240412-2.jpg)
+
+### Quels sont les changements les plus importants annoncés dans la réforme douanière de l’UE et pourquoi constituent-ils une des évolutions les plus importantes depuis près de 50 ans?
+
+Le dernier changement majeur dans les douanes de l’UE remonte à…. 1968 !
+Le 1er juillet 1968, l'union douanière a été établie, entraînant l'élimination complète des droits de douane entre ses pays membres. Cela a eu un impact considérable. Le commerce intracommunautaire a été multiplié par six entre 1957 et 1970, tandis que les échanges de la Communauté Économique Européenne avec d'autres parties du monde ont triplé. Les consommateurs ont directement bénéficié des avantages de l’union en accédant à une gamme plus large de produits importés. Cela a marqué une étape importante vers la réalisation de l’Union Européenne. 
+Le 17 mai 2023, la Commission a présenté des propositions pour simplifier les procédures douanières et améliorer le contrôle.
+Par exemple, le projet propose de créer une autorité douanière européenne unifiée. Cette autorité supervisera la mise en œuvre et la gestion d'une plateforme commune, connue sous le nom de nouveau centre de données douanières de l'UE, pour le dédouanement des marchandises dans tous les États membres. Initialement centrée sur les biens de commerce électronique, cette plateforme ambitionne d'être opérationnelle d'ici 2028, avec pour objectif d'étendre sa couverture à tous les opérateurs d'ici 2032.
+En outre, la réforme propose d'introduire une nouvelle accréditation appelée « Trust and Check », renforçant le régime actuel des opérateurs économiques agréés (OEA) pour les opérateurs dignes de confiance. Cette accréditation permettra aux opérateurs accrédités de mettre en libre pratique des marchandises dans l'Union européenne sans intervention douanière directe dans certains cas. Les opérateurs accrédités bénéficieront également de la flexibilité de choisir leur lieu de dédouanement dans leur pays d'établissement.
+
+### Que signifie la suppression du seuil de faible valeur pour les commerçants mondiaux et comment peuvent-ils commencer à se préparer dès maintenant ?
+Le premier impact évident est une augmentation des droits d’importation payés lorsque les marchandises entrent dans l’UE. Selon le Parlement européen «jusqu'à 65 % des colis entrant dans l'UE sont actuellement sous-évalués, afin d'éviter les droits de douane à l'importation.»
+Mais cette suppression aura également des répercussions sur la TVA.
+L'un d'entre eux est l'impact sur le mécanisme IOSS. L'UE a introduit le mécanisme IOSS dans le cadre du paquet TVA 2021 sur le commerce électronique afin de rationaliser le respect de la TVA pour les commerçants non européens qui vendent des biens aux consommateurs de l'UE. La suppression de ce seuil étend la simplification de l'IOSS à tous les biens vendus aux consommateurs de l'UE, quelle que soit leur valeur.
+Les particuliers, les marketplaces et les plateformes doivent également se préparer à des changements importants : le même paquet TVA sur le commerce électronique a introduit le concept de responsabilité présumée, selon lequel les places de marché et les plateformes sont tenues responsables des ventes de biens aux consommateurs de l'UE d'une valeur inférieure à 150 €. Dans le cadre de ce système, les vendeurs individuels sur ces plateformes sont exonérés des exigences d'enregistrement à la TVA. Toutefois, la suppression de ce seuil élargirait ce cadre pour englober tous les biens vendus aux consommateurs de l’UE en provenance de pays tiers, quelle que soit leur valeur.
+
+### Quels sont les coûts les plus importants supportés par les commerçants dans le cadre de la logistique retour ?
+La plupart des coûts des retours supportés par les commerçants affectent également leurs flux sortants : coûts de transport et de manutention, gestion des stocks, environnement… Mais la logistique retour offre moins d'opportunités de consolidation. Le coût par article est généralement beaucoup plus élevé.
+À cela s’ajoutent les coûts spécifiques liés aux retours : reconditionnement et réapprovisionnement, impact sur la satisfaction client, « double imposition » des droits d’importation dans les flux transfrontaliers. Heureusement, il existe des solutions pour aider les commerçants à réduire ces coûts, comme les remboursements de droits de douane proposés par @Trade Duty Refund.
+
+### L’UE constitue à elle seule la troisième économie mondiale et abrite certaines des principales économies mondiales en matière de commerce électronique. Les commerçants continueront donc d’être attirés par ce marché. Quel conseil donnez-vous lorsqu’il s’agit de traiter avec les douanes de l’UE ?
+
+Depuis 2016, l’UE dispose d’un cadre juridique douanier qui s’applique à chaque État membre. On l'appelle l'UCC (pour Code des douanes de l'Union). Il est conçu pour contribuer à une mise en œuvre harmonisée des règles et procédures douanières dans l’ensemble de l’UE. A noter que l’UE est encore dans la phase de mise en œuvre qui s’étend actuellement jusqu’à fin 2025.
+L’UE sera-t-elle alors un territoire douanier pleinement harmonisé ? Probablement pas et voici pourquoi. Elle génère des actes d'exécution et des actes délégués, nécessitant leur incorporation dans la législation des États membres. Cela peut donner lieu à diverses interprétations. En outre, les répercussions varient selon les pays, en fonction du degré d'alignement des procédures spécifiques sur le CDU et du choix d'un pays de modifier un système existant ou de développer une approche entièrement nouvelle. 
+Traiter avec les douanes de l’UE nécessite un savoir-faire local et une bonne compréhension de la mise en œuvre du CDU par chaque État membre. Pour une entreprise non-UE qui envisage de vendre et d’importer dans l’UE, il reste pertinent d’évaluer plusieurs scénarios de points d’entrée combinant la marque « facilité de traitement avec les douanes » du pays, mais aussi son infrastructure logistique, son marché intérieur…
+
+### Les commerçants peuvent obtenir de l’aide tout au long de leur logistique de chaîne d’approvisionnement. Pouvez-vous clarifier la différence entre un courtier en douane et un courtier dédié et comment les commerçants peuvent collaborer avec un courtier pour atténuer ces réformes à venir.
+
+Un courtier en douane gère généralement un large éventail de services liés aux douanes, notamment la documentation d'importation et d'exportation, le classement tarifaire, l'évaluation et le respect des réglementations douanières. Ils assistent les clients dans divers aspects du commerce international, garantissant le bon dédouanement des marchandises.
+D'un autre côté, un courtier dédié à la récupération des droits, tel que  Trade Duty Refund, se spécialise dans les services de remboursement des droits. Cela consiste à récupérer les droits de douane payés sur les marchandises importées qui sont ensuite exportées ou utilisées dans certains processus de fabrication. Nos services s’appliquent à la fois au commerce électronique et au commerce d’import/export industriel. Nous nous concentrons uniquement sur la maximisation des remboursements de droits pour nos clients, en parcourant les réglementations et procédures complexes pour garantir l’éligibilité et maximiser les montants remboursés.
+En résumé, alors qu'un courtier en douane propose une gamme de services liés aux douanes, un courtier en ristourne de droits dédié se spécialise exclusivement dans l'assistance aux clients dans la récupération des droits de douane par le biais du processus de ristourne de droits.
+
+
+Trade Duty Refund dispose d’une équipe d’experts en commerce international et en logistique qui peuvent également donner des conseils sur les réglementations locales. [Planifiez une première prise de contact gratuite et sans engagement] (https://zcal.co/i/ipvlgNrr) avec nos experts pour obtenir une estimation de calcul et échanger sur les attentes en matière de conformité douanière au Royaume-Uni et en Europe.
