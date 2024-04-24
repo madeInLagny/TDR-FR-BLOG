@@ -2,7 +2,7 @@
 layout: post
 title:  "La parole aux experts : 5 questions à Jocelyn Montpert sur la réforme douanière de l'UE"
 description: Découvrez les réformes douanières de l'UE et leurs impacts pour les commerçants internationaux. Préparez-vous dès maintenant avec nos conseils!
-categories: [ Réformes douanières de l'UE, Commerce international, Commerce électronique,Logistique des retours, La parole aux experts]
+categories: [ réformes douanières de l'UE, commerce international, commerce électronique, logistique des retours, la parole aux experts]
 image: assets/images/20240412-1.webp
 comments: false
 ---

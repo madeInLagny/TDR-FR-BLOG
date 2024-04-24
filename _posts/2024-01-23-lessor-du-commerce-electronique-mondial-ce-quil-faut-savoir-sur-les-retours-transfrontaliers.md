@@ -2,7 +2,7 @@
 layout: post
 title:  "L’essor du commerce électronique mondial : ce qu’il faut savoir sur les retours transfrontaliers"
 description: Dans cet article, nous révèlons de nouvelles statistiques sur la croissance mondiale du commerce électronique, les défis liés aux retours transfrontaliers et la façon dont Trade Duty Refund peut aider les entreprises à récupérer les droits de douane efficacement. Prenons un premier rendez-vous gratuit et sans engagement pour évaluer ensemble les montants que nous pouvons récupérer pour vous.
-categories: [ Commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, logistique alimentée par l’IA. ]
+categories: [ commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, logistique alimentée par l’IA. ]
 image: assets/images/20240123-1.webp
 comments: false
 ---

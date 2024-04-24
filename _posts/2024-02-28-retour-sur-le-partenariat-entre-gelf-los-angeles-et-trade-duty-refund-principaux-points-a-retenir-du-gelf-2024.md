@@ -2,7 +2,7 @@
 layout: post
 title:  "Retour sur le partenariat entre GELF Los Angeles et Trade Duty Refund: principaux points à retenir du GELF 2024"
 description: Le Global Ecommerce Leaders Forum (GELF) s’est achevé la semaine dernière à Los Angeles et Trade Duty Refund était ravi d’y participer en tant que sponsor, participant et expert du commerce international et de la logistique. Dans cet article, Jocelyn Montpert, fondateur de Trade Duty Refund résume les principaux points à retenir du salon.
-categories: [ Commerce électronique, Mondialisation, Partenariats locaux, De-risking, Taxes et droits de douane]
+categories: [ commerce électronique, mondialisation, partenariats locaux, de-risking, taxes et droits de douane]
 image: assets/images/20240228-1.webp
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "La loi européenne sur l’IA et l’évolution du commerce international : remodeler les douanes et le commerce"
 description: Découvrez comment l’IA transforme le commerce international et les opérations douanières, de la simplification des procédures à l’amélioration de la conformité. En savoir plus sur l’impact de la loi sur l’IA de l’UE et comment le remboursement des droits de douane tire parti de la technologie basée sur l’IA pour le remboursement des droits de douane.
-categories: [ L’IA dans le commerce, Loi sur l'IA, Procédure douanières]
+categories: [ IA dans le commerce, loi sur l'IA, procédure douanières]
 image: assets/images/20240206-1.webp
 comments: false
 ---

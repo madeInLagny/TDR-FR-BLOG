@@ -2,7 +2,7 @@
 layout: post
 title:  "Relever le double défi : augmentation constante retour e-com et des frais de douane"
 description: "Optimisez vos retours en ligne : gérez efficacement les coûts de douane, minimisez les risques financiers et améliorez la satisfaction client. Découvrez comment dans notre article!"
-categories: [commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, l’ia dans le commerce]
+categories: [commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, ia dans le commerce]
 image: assets/images/20240424-1.webp
 comments: false
 ---
