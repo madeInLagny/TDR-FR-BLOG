@@ -20,9 +20,9 @@ bundle exec jekyll serve --watch
 - Use Chat GPT to create an HTML description metatag of 50 to 160 characters
 
  "Write a SEO friendly description tag in French and in 160 characters max for this blog post:"..."
- "Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list. If it makes sense try to use one of the following tags:tva, uk, eu, commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, logistique alimentée par l’ia., l’ia dans le commerce, loi sur l'ia, procédure douanières, commerce électronique, mondialisation, partenariats locaux, de-risking, taxes et droits de douane, réformes douanières de l'ue, commerce international, logistique des retours, la parole aux experts"
-
-- Check the post locally
+ "Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list. If it makes sense try to use one of the following tags:tva, uk, eu, commerce électronique mondial, retours transfrontaliers, réglementations douanières, gestion de la chaîne d’approvisionnement, logistique alimentée par l’ia., l’ia dans le commerce, loi sur l'ia, procédure douanières, commerce électronique, mondialisation, partenariats locaux, de-risking, taxes et droits de douane, réformes douanières de l'ue, commerce international, logistique des retours, la parole aux experts,concurrence des prix, taxes et droits de douane. Tell me if you created new tags."
+ 
+ - Check the post locally
 - Save changes and commit to upload changes to github
 - Add the URL to Google Search Console
 
@@ -30,6 +30,7 @@ bundle exec jekyll serve --watch
 [**Trade Duty Refund**](https://fr.tradedutyrefund.com)
 [Jocelyn Montpert](https://fr.tradedutyrefund.com/jocelyn-montpert.html)
 ![Image description](/assets/images/20240412-2.jpg)
+Contactez-nous à [contact@tradedutyrefund.com](mailto:contact@tradedutyrefund.com)
 
 ## Tools
 Slugify title: https://slugify.online/
